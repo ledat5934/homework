@@ -1,7 +1,4 @@
 import unittest
-# Giả định hàm calculate_shipping_fee được định nghĩa trong module dynamic_shipping
-# Bạn cần đảm bảo file dynamic_shipping.py và hàm calculate_shipping_fee tồn tại
-# để đoạn code này chạy được.
 from dynamic_shipping import calculate_shipping_fee 
 
 class TestShippingFee(unittest.TestCase):
